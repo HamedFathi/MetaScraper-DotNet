@@ -1,6 +1,6 @@
 ## ICTChallenge (Redstone Team)
-Question ID: 9D476 / Question 3
-Score: 600
+Question ID: 515CD / Question 3
+Score: 700
 
 ## Project Prerequisites:
 Visual Studio 2017 on Mac OS HighSierra
