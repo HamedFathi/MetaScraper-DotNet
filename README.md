@@ -56,6 +56,7 @@ Each parameter was available in html content will be in meta JSON.
 ```
 
 #### Error: 
+If domain was not valid will get this error:
 
 ```
 {
@@ -66,5 +67,7 @@ Each parameter was available in html content will be in meta JSON.
 
 ## Redstone Group
 Mohammad Hadi Bayan
+
 Hussein Habibi Juybari
+
 Ali Noshahi
